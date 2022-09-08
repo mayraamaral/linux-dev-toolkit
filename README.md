@@ -69,3 +69,18 @@ My complete Linux configuration for web development in 2022.
 - Prettier
 - Thunder Client
 - vscode-styled-components
+
+## 6. Browser Config
+
+- Theme: [Bits + Pieces](https://chrome.google.com/webstore/detail/bits-%20-pieces/foocngohimdoacmhbjfkdldchhiipieo)
+- Mode: [Dark Mode on Ubuntu Configuration](https://dev.to/ankitbrijwasi/enable-dark-mode-in-chrome-on-ubuntu-20na)
+
+## 7. Browser Extensions
+
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR)
+- [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+- [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=pt-BR)
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR)
+- [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj?hl=pt-BR)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pt-BR)
