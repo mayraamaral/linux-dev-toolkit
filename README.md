@@ -4,13 +4,13 @@ My complete Linux configuration for web development in 2022.
 
 ## Summary
 
-- [1. General Information](https://github.com/mayraamaral/linux-dev-toolkit#1-general-information)
-- [2. Personalization](https://github.com/mayraamaral/linux-dev-toolkit#2-personalization)
-- [3. Terminal Information](https://github.com/mayraamaral/linux-dev-toolkit#3-terminal-information)
-- [4. VS Code Config](https://github.com/mayraamaral/linux-dev-toolkit#4-vs-code-config)
-- [5. VS Code Extensions](https://github.com/mayraamaral/linux-dev-toolkit#5-vs-code-extensions)
-- [6. Browser Config](https://github.com/mayraamaral/linux-dev-toolkit#6-browser-config)
-- [7. Browser Extensions](https://github.com/mayraamaral/linux-dev-toolkit#7-browser-extensions)
+1. [General Information](https://github.com/mayraamaral/linux-dev-toolkit#1-general-information)
+2. [Personalization](https://github.com/mayraamaral/linux-dev-toolkit#2-personalization)
+3. [Terminal Information](https://github.com/mayraamaral/linux-dev-toolkit#3-terminal-information)
+4. [VS Code Config](https://github.com/mayraamaral/linux-dev-toolkit#4-vs-code-config)
+5. [VS Code Extensions](https://github.com/mayraamaral/linux-dev-toolkit#5-vs-code-extensions)
+6. [Browser Config](https://github.com/mayraamaral/linux-dev-toolkit#6-browser-config)
+7. [Browser Extensions](https://github.com/mayraamaral/linux-dev-toolkit#7-browser-extensions)
 
 ## 1. General information
 
