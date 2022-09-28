@@ -74,7 +74,7 @@ My complete Linux configuration for web development in 2022.
 
 ## 6. Browser Config
 
-- Theme: [Bits + Pieces](https://chrome.google.com/webstore/detail/bits-%20-pieces/foocngohimdoacmhbjfkdldchhiipieo)
+- Theme: [Material Dark Theme](https://chrome.google.com/webstore/detail/material-dark-theme/miljekjnhkpkelpomeehcbhlanppjegn?hl=pt-BR)
 - Mode: [Dark Mode on Ubuntu Configuration](https://dev.to/ankitbrijwasi/enable-dark-mode-in-chrome-on-ubuntu-20na)
 
 ## 7. Browser Extensions
